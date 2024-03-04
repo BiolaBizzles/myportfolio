@@ -1,0 +1,152 @@
+		html {
+  scroll-behavior: smooth;
+}
+		
+		.container-sm {
+							
+			background-color: #f8f9fa;
+		}
+
+        body{
+			background-color: #080705;
+			
+		}
+
+		hr{
+			
+		}
+    
+
+		div {
+			min-height: 100px;
+			
+		}
+
+		nav {
+			/* height: 100px; */
+			background-color: #fff;
+			
+		}
+		
+
+		header {
+			/* height: 100vh; */
+			min-height: 700px
+		}
+
+		.header-element {
+			min-height: 300px
+		}
+
+		.section0 {
+			min-height: 500px;
+		}
+
+		.section1 {
+			min-height: 500px;
+		}
+
+		.section6 {
+			min-height: 700px
+		}
+
+		.hero-title {
+			margin-top: 15px;
+			min-height: 400px;
+			
+		}
+
+		.section{
+			margin-top: px;
+		}
+
+		.section2{
+			margin-top: -150px;
+		}
+
+		.about-caption {
+			min-height: 300px;
+		}
+
+		.hire-caption {
+			max-height: 200px;
+		}
+
+		.card-container {
+			text-align: center;
+		}
+
+		.nav-bar {
+			min-height: 100px;
+		}
+
+		.logo-img {
+			max-width: 100px;
+		}
+
+		.about-image {
+			
+			border-radius: 5px;
+			max-width: 350px;
+		}
+
+		.testimonial-card-img {
+			max-width: 150px;
+		}
+
+		i{
+			font-size: 50px;
+		}
+
+		.portfolio-card-img {
+			max-width: 250px;
+		}
+
+		.footer {
+			max-height: 20px;
+		}
+
+		.sociallink {
+			color: #f8f9fa;
+			max-height: 20px;
+			text-decoration: none;
+			list-style-type: none;
+            padding-right: 5px;
+		}
+
+		a {
+			list-style-type: none;
+			text-decoration: none;
+		}
+
+		.modal-btn {
+			height: 10px;
+		}
+
+
+		header {
+			background-color: #080705;
+			width: 100%;
+			min-height: 800px;
+			background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.73), rgba(0, 0, 0, 0.284)), url(images/bizzle_black_logo-1.jpg);
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+
+		footer{
+			background-color: #080705;
+		}
+
+		.buttonss{
+			padding-right: 10px;
+		}
+
+		.qr-code{
+			max-width: 300px;
+		}
+
+		.qr-body{
+			padding: 20px;
+		}
